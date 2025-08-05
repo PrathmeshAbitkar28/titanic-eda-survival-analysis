@@ -29,11 +29,6 @@ A comprehensive **Exploratory Data Analysis (EDA)** project on the Titanic datas
 
 ---
 
-## 📷 Sample Visuals
-_Add screenshots or graphs here (e.g., survival rate bar plot, heatmap, etc.)_
-
----
-
 ## 🔍 Findings
 - **Females** and **1st class passengers** had significantly higher survival rates.
 - Younger passengers and those with smaller families were more likely to survive.
