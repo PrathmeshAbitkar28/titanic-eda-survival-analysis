@@ -48,10 +48,5 @@ A comprehensive **Exploratory Data Analysis (EDA)** project on the Titanic datas
 
 ---
 
-## ✅ Status
-✅ Completed – open for enhancements like logistic regression or model building.
-
----
-
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
